@@ -1,0 +1,15 @@
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\bin\Debug\net6.0\Project-school.exe
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\bin\Debug\net6.0\Project-school.deps.json
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\bin\Debug\net6.0\Project-school.runtimeconfig.json
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\bin\Debug\net6.0\Project-school.dll
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\bin\Debug\net6.0\Project-school.pdb
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\obj\Debug\net6.0\Project-school.csproj.AssemblyReference.cache
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\obj\Debug\net6.0\Project-school.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\obj\Debug\net6.0\Project-school.AssemblyInfoInputs.cache
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\obj\Debug\net6.0\Project-school.AssemblyInfo.cs
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\obj\Debug\net6.0\Project-school.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\obj\Debug\net6.0\Project-school.dll
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\obj\Debug\net6.0\refint\Project-school.dll
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\obj\Debug\net6.0\Project-school.pdb
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\obj\Debug\net6.0\Project-school.genruntimeconfig.cache
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\Project-school\obj\Debug\net6.0\ref\Project-school.dll

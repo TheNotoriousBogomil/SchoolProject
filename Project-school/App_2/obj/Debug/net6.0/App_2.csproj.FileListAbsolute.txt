@@ -1,0 +1,15 @@
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\bin\Debug\net6.0\App_2.exe
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\bin\Debug\net6.0\App_2.deps.json
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\bin\Debug\net6.0\App_2.runtimeconfig.json
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\bin\Debug\net6.0\App_2.dll
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\bin\Debug\net6.0\App_2.pdb
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\obj\Debug\net6.0\App_2.csproj.AssemblyReference.cache
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\obj\Debug\net6.0\App_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\obj\Debug\net6.0\App_2.AssemblyInfoInputs.cache
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\obj\Debug\net6.0\App_2.AssemblyInfo.cs
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\obj\Debug\net6.0\App_2.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\obj\Debug\net6.0\App_2.dll
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\obj\Debug\net6.0\refint\App_2.dll
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\obj\Debug\net6.0\App_2.pdb
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\obj\Debug\net6.0\App_2.genruntimeconfig.cache
+C:\Users\Ryzen3500X\Desktop\Visual Studio\Project-school\App_2\obj\Debug\net6.0\ref\App_2.dll
